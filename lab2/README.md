@@ -40,3 +40,5 @@ sudo docker rmi -f $(sudo docker images -aq)
 # Delete everything
 
 sudo docker system prune -a --volumes
+This is a test
+
